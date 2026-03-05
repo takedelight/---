@@ -1,0 +1,18 @@
+# Visual Studio сміття
+.vs/
+[Dd]ebug/
+[Rr]elease/
+*.ipch
+*.sdf
+*.opensdf
+*.VC.db
+*.user
+*.suo
+
+# Бінарні файли та результати збірки
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.dll
